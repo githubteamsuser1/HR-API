@@ -5,7 +5,7 @@
           "targetServers": [
               {
                 "name" : "cicd-target-server",
-                "host" : "mamillarevathi-eval-prod.apigee.net",
+                "host" : "sumitkpal-eval-prod.apigee.net",
                 "isEnabled" : true,
                 "port" : 80
               }
@@ -29,11 +29,11 @@
                     "entry": [
                         {
                             "name": "username",
-                            "value": "aegon"
+                            "value": "sumit.k.pal@pwc.com"
                         },
                         {
                             "name": "password",
-                            "value": "hcl"
+                            "value": "Dominica$1.65"
                         }
                     ]
                 }
